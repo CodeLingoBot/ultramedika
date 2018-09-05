@@ -22,9 +22,9 @@ $trenutna_strana = str_replace("/", "", $trenutna_strana);
 
     <nav class="meni">
       <a class="meni-pojedinacno <?php if ($trenutna_strana == "index" or $trenutna_strana == "") {
-    echo "trenutna_strana";}?>" href="index.php">Home</a>
+    echo "trenutna_strana";}?>" href="index.php">Naslovna</a>
       <a class="meni-pojedinacno <?php if ($trenutna_strana == "ordinacija") {
-    echo "trenutna_strana";}?>" href="ordinacija.php">Ordinacija</a>
+    echo "trenutna_strana";}?>" href="ordinacija.php">O ordinaciji</a>
       <a class="meni-pojedinacno <?php if ($trenutna_strana == "oprema") {
     echo "trenutna_strana";}?>" href="oprema.php">Oprema</a>
       <a class="meni-pojedinacno <?php if ($trenutna_strana == "pregledi") {
