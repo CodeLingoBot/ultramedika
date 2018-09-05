@@ -73,7 +73,7 @@ ul {
   font-size: 90%;
 }
 
-.pocetak-rada, .kalendar, #stari-sajt-naslov, .podlogo-dole, .vodic, .novosti, #epik-mali-naslov {
+.pocetak-rada, .kalendar, .podlogo-dole, .vodic, .novosti, #epik-mali-naslov {
   text-transform: uppercase;
   font-size: 90%;
   font-family: Trebuchet MS, sans-serif;
@@ -273,10 +273,6 @@ header {
 
 #epik-ikonica {
   width: 75px;
-}
-
-.stari-sajt-okvir {
-  float: right;
 }
 
 .trudnica {

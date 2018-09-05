@@ -14,9 +14,9 @@
   <div class="tika">
     <p>DOCENT TIHOMIR M. MIHAILOVIĆ, specijalista RADIOLOGIJE: </p>
     <p>
-      <a href="stari-sajt/dl/TM-Biografija.doc">✓ Biografija </a>
-      <a href="stari-sajt/dl/TM-Portret.doc">✓ Portret </a>
-      <a href="stari-sajt/dl/Sajt-Strucnost ima cenu.doc">✓ Stručnost ima cenu</a>
+      <a href="tekstovi/TM-Biografija.doc">✓ Biografija </a>
+      <a href="tekstovi/TM-Portret.doc">✓ Portret </a>
+      <a href="tekstovi/Sajt-Strucnost ima cenu.doc">✓ Stručnost ima cenu</a>
     </p>
   </div>
 
@@ -60,10 +60,6 @@
     <div class="epik-ikonica-okvir">
       <p id="epik-mali-naslov"><a href="http://www.medical.philips.com/main/products/ultrasound/systems/epiq7/">EPIQ 7</a></p>
       <a href="http://www.medical.philips.com/main/products/ultrasound/systems/epiq7/"><img id="epik-ikonica" src="slike/epiq_7.jpg" alt="epiq_7"></a>
-    </div>
-    <div class="stari-sajt-okvir">
-      <p id="stari-sajt-naslov"><a href="stari-sajt/index.htm">STARI SAJT</a></p>
-      <a href="stari-sajt/index.htm"><img id="stari-sajt" src="slike/stari-aparat.png"></a>
     </div>
   </div>
 </section>

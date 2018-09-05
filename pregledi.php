@@ -68,7 +68,7 @@
 				<p>LEONORA T. PAVLICA, </p>
 				<p>KLINIČKI PSIHOLOG I PSIHOTERAPEUT,</p>
 			  <p>Kontakt telefon: 069 3057770</p>
-			  <p><a href="stari-sajt/dl/Leonora-Biografija.doc">✓ Biografija </a><a href="stari-sajt/dl/Leonora-Profil.doc">✓ Profil </a><a href="savetovaliste.php">✓ Psihološko savetovalište za trudnice</a></p>
+			  <p><a href="tekstovi/Leonora-Biografija.doc">✓ Biografija </a><a href="tekstovi/Leonora-Profil.doc">✓ Profil </a><a href="savetovaliste.php">✓ Psihološko savetovalište za trudnice</a></p>
 			</div>
 			
 			<h2>Ostali pregledi:</h2>
