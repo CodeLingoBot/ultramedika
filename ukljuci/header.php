@@ -16,7 +16,7 @@ $trenutna_strana = str_replace("/", "", $trenutna_strana);
 
   <header>
     <div class="logo-drzac ne-selektuj">
-      <h1 class="logo"><span class="ultra">ultra</span><span class="medika">medika</span></h1>
+      <h1 class="logo"><a href="index.php"><span class="ultra">ultra</span><span class="medika">medika</span></a></h1>
       <div class="podlogo-gore">specijalistička ordinacija</div>
     </div>
 
