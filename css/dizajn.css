@@ -11,28 +11,14 @@ html, body {
   border: 0;
 }
 
-/*********** OPŠTA *********/
+/*********** OPŠTE *********/
 
 body {
-  background: #E2E2E2;
   color: #454545;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-  font-weight: 300;
   line-height: 24px;
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFFFF), to(#CCCCCC));
-  background: -webkit-linear-gradient(top, #FFFFFF, #CCCCCC);
-  background: -moz-linear-gradient(top, #FFFFFF, #CCCCCC);
-  background: -ms-linear-gradient(top, #FFFFFF, #CCCCCC);
-  background: -o-linear-gradient(top, #FFFFFF, #CCCCCC);
+  background-image: linear-gradient(to right, #FFFFFF , #ececec);
   min-width: 365px;
-}
-
-.drzac-za-frejm, iframe {
-  width: 670px;
-  height: 590px;
-  padding: 0;
-  margin: 0 auto;
-  overflow: hidden;
 }
 
 .granicnik {
@@ -54,7 +40,6 @@ a {
 }
 
 a:hover, .strelica, .trenutna_strana a, h1, h2 {
-  /* plavo */
   color: #0066ff;
 }
 
@@ -84,7 +69,6 @@ ul {
 }
 
 .pocetak-rada, .kalendar, #stari-sajt-naslov, .podlogo-dole, .vodic, .novosti, #epik-mali-naslov {
-  /* sva velika slova */
   text-transform: uppercase;
   font-size: 90%;
   font-family: Trebuchet MS, sans-serif;
@@ -249,7 +233,7 @@ header {
   clear: both;
 }
 
-/*************** IZNAD PODNOŽJA **********************/
+/*************** SREDISNJI DEO **********************/
 
 .sredisnji-deo {
   /* height: auto; */
@@ -315,11 +299,6 @@ footer {
   padding-bottom: 10%;
 }
 
-.logo-drzac-dole {
-  width: calc(100% - 300px);
-  display: inline-block;
-}
-
 .podlogo-dole {
   margin: 0;
   padding: 0;
@@ -330,32 +309,17 @@ footer {
   margin-top: 20px;
 }
 
-.fejsbuk-kutija {
-  width: 292px;
-  height: 290px;
-  float: right;
-  display: inline-block;
-}
-
 /***************** TABLETI **********************/
 
 @media only screen and (max-width: 800px) {
   .glavno-prvo {
     background-image: url('../slike/aparat-providan3.png');
-    /* slika aparata */
   }
   .dobrodosli {
     text-align: center;
   }
   .ikonice, .desno-bitno {
     width: 100%;
-  }
-  iframe {
-    margin-left: -200px;
-  }
-  .drzac-za-frejm, iframe {
-    width: 550px;
-    height: 590px;
   }
   #mapa-okvir {
     height: 500px;
@@ -425,13 +389,6 @@ footer {
   .slikodrzac, .slika-desno {
     clear: both;
     width: 100%;
-  }
-  iframe {
-    margin-left: -200px;
-  }
-  .drzac-za-frejm, iframe {
-    width: 450px;
-    height: 590px;
   }
   .levo, .desno {
     width: 100%;
