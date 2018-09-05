@@ -43,7 +43,7 @@
 
 		</div>
 </span>
-<div class="iznad-podnozja granicnik" style="font-size: large">
+<div class="sredisnji-deo granicnik" style="font-size: large">
 
 			<h1 class="dobrodosli">Naše usluge:</h1>
 

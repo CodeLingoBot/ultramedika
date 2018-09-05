@@ -3,7 +3,7 @@
 	include_once("ukljuci/header.php"); 
 ?>
 
-		<div class="iznad-podnozja granicnik">
+		<div class="sredisnji-deo granicnik">
 		
 			<h1>Ultrazvučni pregledi</h1>
 			
@@ -29,7 +29,7 @@
 			
 		</div>
 				
-		<div class="iznad-podnozja granicnik">
+		<div class="sredisnji-deo granicnik">
 		
 			<h2>Kalendar pregleda u trudnoći:</h2>
 			

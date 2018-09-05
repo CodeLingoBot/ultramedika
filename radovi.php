@@ -2,7 +2,7 @@
 	$naslov = "Stručni radovi | Ultramedika, specijalistička ordinacija";	
 	include_once("ukljuci/header.php"); 
 ?>
-		<div class="iznad-podnozja granicnik">
+		<div class="sredisnji-deo granicnik">
 
 			<h1>Stručni radovi</h1>
 			
@@ -34,7 +34,7 @@
 			</div>
 		</div>
 				
-		<div class="iznad-podnozja granicnik">
+		<div class="sredisnji-deo granicnik">
         	<h2>2017. godina.</h2>
         	<p><a href="radovi/Mihilovic WCPM.pdf">T. Mihailovic (2017.):&quot;13 th World Congres Of Perinatal medicine&quot;, Beograd  26.-29.oktobar 2017.</a></p>
        	  <p><a class="radovi" href="radovi/Aktuelnosti u hirurgiji i srodnim granama.pdf">T. Mihailović (2017.):&quot;Aktuelnosti u hirurgiji i srodnim granama&quot;, na skupu &quot;XXXVI timočki medicinski dani&quot;, Srpsko lekarsko društvo podružnica Zajčar.</a></p>

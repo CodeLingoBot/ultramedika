@@ -68,7 +68,7 @@
 
 		</div>
 		
-		<div class="iznad-podnozja granicnik">
+		<div class="sredisnji-deo granicnik">
 
 			<p>Zaključak:</p>
 			

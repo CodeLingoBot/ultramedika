@@ -3,7 +3,7 @@
 	include_once("ukljuci/header.php"); 
 ?>
 
-		<div class="iznad-podnozja granicnik">
+		<div class="sredisnji-deo granicnik">
 			<h1>Kontakt</h1>
 
 			<a href="slike/ordinacija4.jpg"><img src="slike/ordinacija4.jpg" class="slika-desno"></a>
@@ -54,7 +54,7 @@ mobilni: 069 3057770<br />
 
 		</div>
 				
-		<div class="iznad-podnozja granicnik">
+		<div class="sredisnji-deo granicnik">
 			<p><span class="sivo"><strong>SAVETI:</strong></span><p>
 			
 			<img src="slike/dr-tika.jpg" class="slika-desno">
