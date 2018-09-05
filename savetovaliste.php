@@ -30,7 +30,7 @@
 			
 			<p>Ukoliko kod sebe uočavate neke od pomenutih smetnji možete zakazati konsultaciju u savetovalištu.</p>
 			
-			<p class="sivo">Psihološko savetovalište nudi sledeće intervencije:
+			<p>Psihološko savetovalište nudi sledeće intervencije:
 				<ul>
 					<li>✓ Detektovanje problema/dijagnostifikovanje poremećaja;</li>
 					<li>✓ Savetovanje oslonjeno na suportativne i konstruktivističke tehnike;</li>

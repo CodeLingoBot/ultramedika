@@ -3,7 +3,7 @@
   src: url('../ukljuci/OpenSans-Regular.ttf') format('truetype');
 }
 
-/******************** RESET **********************/
+/*********** DEFAULTS *********/
 
 html, body {
   margin: 0;
@@ -11,77 +11,57 @@ html, body {
   border: 0;
 }
 
-/*********** OPŠTE *********/
-
 body {
   color: #454545;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   line-height: 24px;
   background-image: linear-gradient(to bottom, #FFFFFF , #e5e5e5);
-  min-width: 365px;
 }
 
-.granicnik {
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 10%;
-}
-
-.glavnina {
-  background: #FFFFFF;
-  margin: 0 8% 8% 8%;
-  border-radius: 5px 5px 2px 2px;
-  box-shadow: 2px 2px 24px -3px rgba(0, 0, 0, 0.75);
+img {
+  max-width: 100%;
 }
 
 a {
-  /* color: #2141a3; */
   color: inherit;
 }
 
 a[href^="tel:"],
-nav a,
-.logo a {
+header a {
   text-decoration: none;
 }
 
 a[href^="tel:"]::before {
   content: "\260e";
-  margin-right: 0.5em;
+  margin-right: 8px;
   color: #5b5b5b;
+}
+
+a[href$=".pdf"]::before,
+a[href$=".doc"]::before,
+a[href$=".docx"]::before,
+a[href$=".ppt"]::before, 
+a[href$=".pptx"]::before {
+  margin-right: 8px;
+  width: 10px;
 }
 
 a[href$=".pdf"]::before {
   content: url(../slike/ikonice/pdf.png);
-  margin-right: 8px;
-  width: 10px;
 }
 
 a[href$=".ppt"]::before, 
 a[href$=".pptx"]::before {
   content: url(../slike/ikonice/ppt.png);
-  margin-right: 8px;
-  width: 10px;
+}
+
+a[href$=".doc"]::before, 
+a[href$=".docx"]::before {
+  content: url(../slike/ikonice/doc.png);
 }
 
 a:hover, .strelica, .trenutna_strana a, h1, h2 {
   color: #0066ff;
-}
-
-.trenutna_strana {
-  font-weight: bold;
-}
-
-h1:not(.logo, .dobrodosli), h2:not(.dobrodosli) {
-  text-align: center;
-}
-
-h1 {
-  line-height: 32px;
-}
-
-.dobrodosli {
-  text-align: left;
 }
 
 ul {
@@ -93,14 +73,33 @@ ul {
   font-size: 90%;
 }
 
-.pocetak-rada, .kalendar, .podlogo-dole, .vodic, .novosti, #epik-mali-naslov {
+/*********** HELPERS *********/
+
+.full {
+  width: 100%;
+}
+
+.granicnik {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10%;
+}
+
+.glavnina {
+  background: #FFFFFF;
+  margin: 0 4% 4% 4%;
+  border-radius: 5px 5px 2px 2px;
+  box-shadow: 2px 2px 24px -3px rgba(0, 0, 0, 0.75);
+}
+
+.trenutna_strana {
+  font-weight: bold;
+}
+
+.uppercase {
   text-transform: uppercase;
   font-size: 90%;
   font-family: Trebuchet MS, sans-serif;
-}
-
-.kalendar, .vodic, .novosti {
-  letter-spacing: 1px;
 }
 
 .bitno {
@@ -113,11 +112,6 @@ ul {
   border: 1px solid #D0CDC7;
   border-radius: 2px;
   font-style: italic;
-}
-
-.sivo {
-  /* background: #0066FF; */
-  /* color: #fff; */
 }
 
 .postava {
@@ -141,6 +135,12 @@ ul {
   float: right;
 }
 
+.ne-selektuj {
+  user-select: none;
+}
+
+/******************** STRANICE *******************/
+
 #mapa-okvir {
   height: 600px;
   width: 100%;
@@ -151,24 +151,15 @@ ul {
   width: 100%;
 }
 
-.gm-style-iw {
-  width: 150px;
-}
-
 .radovi a {
   display: block;
   margin: 1em 0;
 }
 
-/******************** ZAGLAVLJE *******************/
+/******************** HEADER *******************/
 
 header {
   margin: 0 8% 0 8%;
-  padding: 0 10% 0 10%;
-}
-
-.ne-selektuj {
-  user-select: none;
 }
 
 .logo {
@@ -197,12 +188,13 @@ header {
   padding-bottom: 24px;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .meni-pojedinacno {
-  display: inline-block;
   letter-spacing: 1px;
   font-family: Trebuchet MS, sans-serif;
+  margin-right: 8px;
 }
 
 /*************** GLAVNINA **************/
@@ -223,27 +215,6 @@ header {
   margin-top: 10px;
 }
 
-.tika {
-  margin-top: 20px;
-}
-
-.tika p, .leonora p, .pocetak-rada p {
-  display: block;
-  width: 320px;
-  padding: 5px 10px;
-  border-radius: 2px;
-}
-
-.tika p a, .leonora p a {
-  display: block;
-  padding: 4px;
-}
-
-.tika p a:hover, .leonora p a:hover {
-  border-radius: 2px 2px 0 0;
-  box-shadow: 2px 2px 24px -3px rgba(0, 0, 0, 0.75);
-}
-
 .clear {
   clear: both;
 }
@@ -259,45 +230,7 @@ header {
   box-shadow: 2px 2px 24px -3px rgba(0, 0, 0, 0.75);
 }
 
-.nad-podnozjem-kolone {
-  width: 30%;
-  margin-right: 3%;
-  float: left;
-}
-
-.nad-podnozjem-kolone:last-child {
-  margin-right: 0;
-}
-
-.desno-bitno {
-  width: 60%;
-  float: left;
-  margin-right: 6%;
-}
-
-.ikonice {
-  width: 30%;
-  margin-right: 3%;
-  float: left;
-}
-
-#ultrazvuk-beba {
-  width: 90%;
-}
-
-.epik-ikonica-okvir {
-  float: left;
-}
-
-#epik-ikonica {
-  width: 75px;
-}
-
-.trudnica {
-  width: 300px;
-}
-
-/*************** PODNOŽJE **********************/
+/*************** FOOTER **********************/
 
 footer {
   background: #F6F6F6;
@@ -310,110 +243,21 @@ footer {
   padding-bottom: 10%;
 }
 
-.podlogo-dole {
+footer p {
   margin: 0;
-  padding: 0;
-  line-height: 24px;
 }
 
 .razmak-gore {
   margin-top: 20px;
 }
 
-/***************** TABLETI **********************/
+/***************** RESPONSIVE **********************/
 
-@media (max-width: 800px) {
-  .dobrodosli {
-    text-align: center;
-  }
-  .ikonice, .desno-bitno {
-    width: 100%;
-  }
-  #mapa-okvir {
-    height: 500px;
-    width: 100%;
-  }
-  #mapa {
-    height: 500px;
-    width: 100%;
-  }
-  .logo-drzac-dole {
-    width: 100%;
-  }
-}
-
-/*************** MOBILNI **********************/
-
-@media (max-width: 480px) {
-  .meni {
-    text-align: center;
-  }
+@media (min-width: 800px) {
   .glavnina {
-    line-height: 22px;
+    margin: 0 8% 8% 8%;
   }
-  .glavno-prvo {
-    background: #fff;
-    padding-top: 20px;
-    margin-bottom: 40px;
-  }
-  .slika-manja {
-    background-image: url('../slike/epiq_7_manji.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 200px;
-    width: 100%;
-  }
-  #slika-tika {
-    width: 100%;
-    border-radius: 20px;
-  }
-  .tika {
-    margin-top: 10px;
-  }
-  .leonora {
-    margin-top: 20px;
-  }
-  .tika p, .leonora p, .pocetak-rada p {
-    padding: 2px;
-    position: relative;
-    width: 100%;
-    line-height: 20px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-  }
-  .tika p a, .leonora p a {
-    padding: 2px;
-  }
-  .sredisnji-deo {
-    padding-top: 10px;
-    padding-bottom: 30px;
-  }
-  .nad-podnozjem-kolone {
-    width: 100%;
-  }
-  .slikodrzac, .slika-desno {
-    clear: both;
-    width: 100%;
-  }
-  .levo, .desno {
-    width: 100%;
-  }
-  .bitno {
-    font-size: 105%;
-  }
-  #tabela-radova {
-    width: 100%;
-    margin-left: -32px;
-  }
-  #mapa-okvir {
-    height: 400px;
-    width: 100%;
-  }
-  #mapa {
-    height: 400px;
-    width: 100%;
-  }
-  .unutar-nabrajanje {
-    padding-left: 12px;
+  header {
+    padding: 0 10% 0 10%;
   }
 }

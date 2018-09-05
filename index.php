@@ -5,7 +5,7 @@
 
   <img src="slike/aparat-epiq-7.png" alt="ultrazvuk aparat epiq 7">
 
-  <div class="pocetak-rada">
+  <div class="uppercase">
     <p class="bitno"><i>POČETAK RADA SPECIJALISTIČKE RADIOLOŠKE ORDINACIJE MART 1993.</i></p>
   </div>
 
@@ -22,9 +22,9 @@
 
   <ul>
     <li><a href="tekstovi/PREDNOST  ULTRAZVUCNOG PREGLEDA DOJKI U ODNOSU NA MAMOGRAFIJU  I MAGNETNU REZONANCU.pdf" target="_self">&#9679;PREDNOST ULTRAZVUČNOG PREGLEDA DOJKI U ODNOSU NA MAMOGRAFIJU I MAGNETNU REZONANCU.</a></li>
-    <li><a href="tekstovi/Kada uraditi ekspertni ultrazvuk trudnoce.pdf" target="_self" class="kalendar">&#9679;KADA URADITI EKSPERTNI ULTRAZVUČNI PREGLED TRUDNOĆE?</a></li>
-    <li><a href="tekstovi/ULTRAZVUCNO  PRACENJE TRUDNOCE.pdf" target="_self" class="kalendar">&#9679;UltrazvuČNO PRAĆENJE TRUDNOĆE.</a></li>
-    <li><a href="tekstovi/ULTRAZVUK DOJKI.pdf" target="_self" class="kalendar">&#9679;ULTRAZVUK DOJKI.</a></li>
+    <li><a href="tekstovi/Kada uraditi ekspertni ultrazvuk trudnoce.pdf" target="_self">&#9679;KADA URADITI EKSPERTNI ULTRAZVUČNI PREGLED TRUDNOĆE?</a></li>
+    <li><a href="tekstovi/ULTRAZVUCNO  PRACENJE TRUDNOCE.pdf" target="_self">&#9679;UltrazvuČNO PRAĆENJE TRUDNOĆE.</a></li>
+    <li><a href="tekstovi/ULTRAZVUK DOJKI.pdf" target="_self">&#9679;ULTRAZVUK DOJKI.</a></li>
   </ul>
 </section>
 
@@ -51,16 +51,14 @@
   </ul>
 
   <div class="desno-bitno">
-    <p class="sivo postava">xMATRIX  „real time“ 4D u TRUDNOĆI</p>
-    <p class="sivo postava">PANORAMSKI VOLUMEN MOD PLODA</p>
-    <p class="sivo postava">SONOELASTOGRAFIJA DOJKI</p>
+    <p>xMATRIX  „real time“ 4D u TRUDNOĆI</p>
+    <p>PANORAMSKI VOLUMEN MOD PLODA</p>
+    <p>SONOELASTOGRAFIJA DOJKI</p>
   </div>
 
-  <div class="ikonice">
-    <div class="epik-ikonica-okvir">
-      <p id="epik-mali-naslov"><a href="http://www.medical.philips.com/main/products/ultrasound/systems/epiq7/">EPIQ 7</a></p>
-      <a href="http://www.medical.philips.com/main/products/ultrasound/systems/epiq7/"><img id="epik-ikonica" src="slike/epiq_7.jpg" alt="epiq_7"></a>
-    </div>
+  <div>
+    <p class="uppercase"><a href="http://www.medical.philips.com/main/products/ultrasound/systems/epiq7/">EPIQ 7</a></p>
+    <a href="http://www.medical.philips.com/main/products/ultrasound/systems/epiq7/"><img id="epik-ikonica" src="slike/epiq_7.jpg" alt="epiq_7"></a>
   </div>
 </section>
 
