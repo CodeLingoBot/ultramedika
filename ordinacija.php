@@ -23,7 +23,7 @@
         <a href="slike/ordinacija2.jpg"><img src="slike/ordinacija2.jpg" class="slika-desno"></a>
       </div>
       
-      <p class="sivo podloga">Nakon dugogodišnjeg kliničkog iskustva (preko 10 godina) Dr Tihomir M. Mihailović 1993. god. nastavlja samo sa radom u svojoj ordinaciji ULTRAMEDIKA. I nakon prekida rada u bolnici nastavlja da se bavi naučno-istraživačkim radom o čemu svedoče brojni stručni radovi iz oblasti ultrazvuka kao i edukacijom studenata i mladjih kolega u svojoj ordinaciji u sklopu Privatnog medicinskog fakulteta.</p>
+      <p class="sivo postava">Nakon dugogodišnjeg kliničkog iskustva (preko 10 godina) Dr Tihomir M. Mihailović 1993. god. nastavlja samo sa radom u svojoj ordinaciji ULTRAMEDIKA. I nakon prekida rada u bolnici nastavlja da se bavi naučno-istraživačkim radom o čemu svedoče brojni stručni radovi iz oblasti ultrazvuka kao i edukacijom studenata i mladjih kolega u svojoj ordinaciji u sklopu Privatnog medicinskog fakulteta.</p>
       
       <p>  Pored pregleda svih organa kod čoveka posebno se  od samog početka rada ordinacije bavi ultrazvučnim pregledom trudnoće. Posedovanje subspecijalizacije iz pedijatriske radiologije, usavršavanje u Americi i naučno istrazivanje urodjenih anomalija organa za varenje i mozga i kičmene moždine omogućilo mu je sledeće:</p>
       
@@ -64,7 +64,7 @@
       
       <p>Ordinacija ULTRAMEDIKA je lider u ranom otkrivanju tumora DOJKI, JAJNIKA i jedina u otkrivanju tumora cevastih organa (debelog creva, želudca, tankog crevo) i itd.</p>
       
-      <p class="sivo podloga">Treba istaći da se jedino u ovoj ordinaciji  rade ispitivanja prohodnosti jajovoda-Hy-Co-Sy, ubrizgavanjem negativnog kontrasta pod kontrlom ultrazvukom. (Klasičan HSG je izbačen iz svetske medicine i nekoristi se zbog zračenja jajnih ćelija i velikog broja lažno pozitivnog nalaza.</p>
+      <p class="sivo postava">Treba istaći da se jedino u ovoj ordinaciji  rade ispitivanja prohodnosti jajovoda-Hy-Co-Sy, ubrizgavanjem negativnog kontrasta pod kontrlom ultrazvukom. (Klasičan HSG je izbačen iz svetske medicine i nekoristi se zbog zračenja jajnih ćelija i velikog broja lažno pozitivnog nalaza.</p>
       
     </div>
             

@@ -10,7 +10,8 @@ $trenutna_strana = str_replace("/", "", $trenutna_strana);
   <meta charset="UTF-8">
   <title><?php echo $naslov; ?></title>
   <meta name="viewport" content="width=device-width">
-  <link rel="stylesheet" href="css/dizajn.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon"/>
 </head>
 <body>
 

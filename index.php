@@ -51,9 +51,9 @@
   </ul>
 
   <div class="desno-bitno">
-    <p class="sivo podloga">xMATRIX  „real time“ 4D u TRUDNOĆI</p>
-    <p class="sivo podloga">PANORAMSKI VOLUMEN MOD PLODA</p>
-    <p class="sivo podloga">SONOELASTOGRAFIJA DOJKI</p>
+    <p class="sivo postava">xMATRIX  „real time“ 4D u TRUDNOĆI</p>
+    <p class="sivo postava">PANORAMSKI VOLUMEN MOD PLODA</p>
+    <p class="sivo postava">SONOELASTOGRAFIJA DOJKI</p>
   </div>
 
   <div class="ikonice">

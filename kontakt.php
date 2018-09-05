@@ -33,7 +33,7 @@ mobilni: <a href="tel:+381693057770">069/305 77 70</a><br />
 
       <img src="slike/dr-tika.jpg" class="slika-desno">
 
-      <p>Pregled  bi trebalo zakazati nakon konsultacije sa ordinacijom da bi se donela ispravna  odluka  koju vrstu pregleda treba uraditi (<span class="sivo">U ORDINACIJI SE RADI PREKO 30 RAZLIČITIH ULTRAZVUČNIH PREGLEDA</span>) </p>
+      <p>Pregled bi trebalo zakazati nakon konsultacije sa ordinacijom, da bi se donela ispravna  odluka  koju vrstu pregleda treba uraditi (<span class="sivo">U ORDINACIJI SE RADI PREKO 30 RAZLIČITIH ULTRAZVUČNIH PREGLEDA</span>) </p>
 
       <p>Pri zakaziavanju se morate imformisati , koliko pregled traje (<span class="sivo">NEKI PREGLEDI KAO ŠTO JE TRUDNOĆA TRAJU PO 30-60MIN</span>) i na koji način se izvodi, sa preporukama o eventualnoj pripremi pre ultrazvučnog pregleda. </p>
 
@@ -49,9 +49,8 @@ mobilni: <a href="tel:+381693057770">069/305 77 70</a><br />
 
       <p> Vaše zdravstvene probleme, zbog zauzetosti doktora ne možete rešavati preko telefona, već možete zakazati konsultativni razgovor sa doktorom u vašem terminu. (<span class="sivo">DA BI IMALI KORISTI OD RAZGOVORA SA DOKTOROM MORATE ZAKAZATI VAŠE VREME SA NJIM</span>)</p>
 
-      <p>Nakon pregleda odmah će te dobiti izveštaj doktora u pismenoj formi sa kompletnim pregledom na CD i/ili DVD.</p>
+      <p>Nakon pregleda odmah će te dobiti izveštaj doktora u pismenoj formi sa kompletnim pregledom na CD i/ili DVD. <span class="sivo">NA TAJ NAČIN ĆETE IMATI KOMPLETNU DOKUMENTACIJU DA BI SE ONA MOGLA KORISTITI ZA VASE LEČENJE I ZA EVENTUALNO DRUGO MIŠLJENJE LEKARA.)</span></p>
 
-      <p class="bitno">(NA TAJ NAČIN ĆETE IMATI KOMPLETNU DOKUMENTACIJU DA BI SE ONA MOGLA KORISTITI ZA VASE LEČENJE I ZA EVENTUALNO DRUGO MIŠLJENJE LEKARA.)</p>
     </div>
 
 <?php include_once "ukljuci/footer.php";?>

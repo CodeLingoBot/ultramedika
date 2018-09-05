@@ -35,13 +35,33 @@ body {
 }
 
 a {
-  text-decoration: none;
   /* color: #2141a3; */
   color: inherit;
 }
 
-nav a {
-  color: inherit;
+a[href^="tel:"],
+nav a,
+.logo a {
+  text-decoration: none;
+}
+
+a[href^="tel:"]::before {
+  content: "\260e";
+  margin-right: 0.5em;
+  color: #5b5b5b;
+}
+
+a[href$=".pdf"]::before {
+  content: url(../slike/ikonice/pdf.png);
+  margin-right: 8px;
+  width: 10px;
+}
+
+a[href$=".ppt"]::before, 
+a[href$=".pptx"]::before {
+  content: url(../slike/ikonice/ppt.png);
+  margin-right: 8px;
+  width: 10px;
 }
 
 a:hover, .strelica, .trenutna_strana a, h1, h2 {
@@ -96,11 +116,11 @@ ul {
 }
 
 .sivo {
-  background: #0066FF;
-  color: #fff;
+  /* background: #0066FF; */
+  /* color: #fff; */
 }
 
-.podloga {
+.postava {
   padding: 8px;
 }
 
@@ -135,11 +155,9 @@ ul {
   width: 150px;
 }
 
-.radovi {
-  display: inline-block;
-  padding: 4px;
-  margin: 4px;
-  line-height: 22px;
+.radovi a {
+  display: block;
+  margin: 1em 0;
 }
 
 /******************** ZAGLAVLJE *******************/

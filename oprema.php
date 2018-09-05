@@ -10,7 +10,7 @@
 
       <p class="bitno">EPIQ 7 JE ULTRAZVUK POSLEDNJE GENERACIJE</p>
       
-      <p class="sivo podloga">EPIQ 7 (E7) je PHILIPSOVA premium ultrazvučna mašina poslednje generacije koja obezbedjuje brzu i tačnu dijagnozu na prvom pregledu, za kraći vremenski period, čak i za pacijente nepodobne za pregled.</p>
+      <p class="sivo postava">EPIQ 7 (E7) je PHILIPSOVA premium ultrazvučna mašina poslednje generacije koja obezbedjuje brzu i tačnu dijagnozu na prvom pregledu, za kraći vremenski period, čak i za pacijente nepodobne za pregled.</p>
     
       <p>E7 to uspeva  formiranjem slike bez kompromisa, novim načinom slanja ultrazvučnih talasa kroz pacijenta takozvanom  (nSIGHT) tehnologijom . Ovaj način je jedinstven i nije prisutan u drugim premium ultrazvučnim mašinama.</p>
       
@@ -40,15 +40,15 @@
       
       <p>xMATRIX je lider u tehnologiji ultrazvučnih sondi. Naime ne postoji drugi premium ultrazvuk na svetu koji može da prati E7 u radu inovativnih ultrazvučnih sondi. Sa pritiskom na dugme xMATRIX ponudjeni su svi modovi koje može da koristi samo jedna sonda-transducer: 2D, 3D/4D, Live xPlane, Live MPR, MPR, Doppler, color Doppler, i CPA.</p>
       
-      <p class="sivo podloga">nSIGHT povećava učinak xMATRIX tehnologije praveći ultra-tanke 2D preseke, što drugom tehnologijom nije moguće.  xMATRIX jedini, u toku prvog stepena  dobijanja  volumena (Live xPlane), omogućava da budu kreirane JEDNA DO DRUGE slike, pune rezolucije,  dve simultane ravni, te je na taj način omogućeno dobijanje dvaput više kliničkih informacija za isto vreme. Takodje, sa istim kvalitetom slike moguće je dobiti slike iz bilo koje ravni. 3D MPR(multiplanarna rekonstrukcija) u X,Y i Z ravni može biti analizirana(PACS) i poslata sa MPR DICOM Exportom.</p>
+      <p class="sivo postava">nSIGHT povećava učinak xMATRIX tehnologije praveći ultra-tanke 2D preseke, što drugom tehnologijom nije moguće.  xMATRIX jedini, u toku prvog stepena  dobijanja  volumena (Live xPlane), omogućava da budu kreirane JEDNA DO DRUGE slike, pune rezolucije,  dve simultane ravni, te je na taj način omogućeno dobijanje dvaput više kliničkih informacija za isto vreme. Takodje, sa istim kvalitetom slike moguće je dobiti slike iz bilo koje ravni. 3D MPR(multiplanarna rekonstrukcija) u X,Y i Z ravni može biti analizirana(PACS) i poslata sa MPR DICOM Exportom.</p>
       
       <p>Takodje danas je prisutan jedinstven  xMATRIX- real-time 4D u trudnoći.   Na primer, sa njim  sakupljanje volumena srca ploda traje 2 sekunde za razliku od konvencionalnih mašina gde je potrebno 12 sec. Philipsov navigator pregleda srca ploda (FHN) automatski prikazuje duktalni luk kao osnovu za druge preseke.</p>
       
-      <p class="sivo podloga">Takodje primena xMATRIX sa sondom X6-1 u pregledu  abdomena, može dobiti celu jetru za manje od 0.25 sec</p>
+      <p class="sivo postava">Takodje primena xMATRIX sa sondom X6-1 u pregledu  abdomena, može dobiti celu jetru za manje od 0.25 sec</p>
 
       <p class="bitno">III. PureWave sonde</p>
       
-      <p class="sivo podloga">PureWave ultrazvučne sonde (transducer) koje koriste uniformne kristale su 85% efikasnije nego sonde konvencionalnih dosadašnjih premium aparta. Ova tehnologija dopušta i povećanje penetracije u zahtevnih pacijenata.</p>
+      <p class="sivo postava">PureWave ultrazvučne sonde (transducer) koje koriste uniformne kristale su 85% efikasnije nego sonde konvencionalnih dosadašnjih premium aparta. Ova tehnologija dopušta i povećanje penetracije u zahtevnih pacijenata.</p>
       
       <p>PureWave sonde, nova 9-2 MHz, C10-3v i X6-1 xMATRIX su sa Linearnim sondama (12-5, 18-5 MHz)  osnova za KVALITETAN 2D PREGLED, a samim tim i kvalitetan Live x Plane, 3D (MPR) i xMATRIX 4D  pregled u radiologiji, ginekologiji i obstreticiji.</p>
       
@@ -58,7 +58,7 @@
             
       <p>Desetogodišnje, dosadašnje studije, pokazuju da kombinacija sonografije i ultrazvučne elastografije, omogućava procenu gustine-stišljivosti tkiva, i na taj način redukuje nepotrebne biopsije.  E7 nudi senzitivnu elastografiju za preglede dojki, organa male karlice (materice, jajnika, prostate), limfnih žlezda, štitne žlezde, grlića u trudnoći itd.</p>
       
-      <p class="sivo podloga">Treba istaći da elastografija predstavlja nezaobilazni deo u proceni tumora dojki i njihovog gradusa malignosti.</p>
+      <p class="sivo postava">Treba istaći da elastografija predstavlja nezaobilazni deo u proceni tumora dojki i njihovog gradusa malignosti.</p>
       
       <p>Odredjivanje maligne infiltracije limfnih žlezda i gradusa tumora odredjuje precizniju BIRADS klasifikaciju tumora.</p>
       
