@@ -28,7 +28,7 @@
 </section>
 
 <section class="sredisnji-deo granicnik">
-  <h2 class="dobrodosli"><a href="pregledi.php">Ultrazvučni pregledi</a></h2>
+  <h2 class="dobrodosli"><a href="pregledi.php" title="Saznaj više o pregledima">Ultrazvučni pregledi</a></h2>
 
   <p>Specijalistička ordinacija Ultramedika prva u Srbiji (i šire) primenjuje sonoelastografiju, ultrazvučnu tomografiju i xMATRIX „real time“ 4D tehnologiju u trudnoći.</p>
 

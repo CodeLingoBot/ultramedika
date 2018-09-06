@@ -17,9 +17,11 @@ $trenutna_strana = str_replace("/", "", $trenutna_strana);
 <body>
 
   <header>
+    <a href="tel:+381113390848" class="tel-header">011/33 90 848</a>
+
     <div class="logo-drzac ne-selektuj">
       <h1 class="logo"><a href="index.php"><span class="ultra">ultra</span><span class="medika">medika</span></a></h1>
-      <div class="postava-gore">specijalistička radiološka ordinacija</div>
+      <div class="postava-gore">specijalistička <span class="show-lg">radiološka</span> ordinacija</div>
     </div>
 
     <nav class="meni">

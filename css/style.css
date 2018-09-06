@@ -36,7 +36,7 @@ h2 a {
 a[href^="tel:"]::before {
   content: "\260e";
   margin-right: 8px;
-  color: #5b5b5b;
+  color: #2141a3;
 }
 
 a[href$=".pdf"]::before, a[href$=".doc"]::before, a[href$=".docx"]::before,
@@ -123,10 +123,13 @@ h1, h2, h3 {
   border-radius: 24px;
 }
 
+.show-lg {
+  display: none;
+}
+
 /******************** STRANICE *******************/
 
 .usluge > div {
-  width: 300px;
   text-align: center;
 }
 
@@ -191,14 +194,13 @@ header {
 
 .meni {
   padding-bottom: 24px;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
 }
 
 .meni-pojedinacno {
   color: #2141a3;
   margin-right: 8px;
+  display: block;
+  border-bottom: 1px solid #e5e5e5;
 }
 
 /*************** GLAVNINA **************/
@@ -220,7 +222,6 @@ header {
 /*************** SREDISNJI DEO **********************/
 
 .sredisnji-deo {
-  /* height: auto; */
   padding-top: 40px;
   padding-bottom: 40px;
   overflow: auto; /* prilagodjava okvir plovnom sadrzaju */
@@ -267,5 +268,27 @@ footer p {
 	.desno {
 	  width: 45%;
 	  float: right;
-	}
+  }
+  
+  .tel-header {
+    float: right;
+  }
+
+  .meni {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .meni-pojedinacno {
+    border-bottom: 1px solid;
+  }
+
+  .show-lg {
+    display: inline;
+  }
+
+  .usluge > div {
+    width: 300px;
+  }
 }
