@@ -18,7 +18,8 @@ body {
   background-image: linear-gradient(to bottom, #FFFFFF , #e5e5e5);
 }
 
-img {
+img,
+iframe {
   max-width: 100%;
 }
 
@@ -33,10 +34,14 @@ h2 a {
   text-decoration: none;
 }
 
-a[href^="tel:"]::before {
+a[href^="tel:+38111"]::before {
   content: "\260e";
-  margin-right: 8px;
   color: #2141a3;
+  margin-right: 4px;
+}
+
+a[href^="tel:+3816"]::before {
+  content: "\1F4F1";
 }
 
 a[href$=".pdf"]::before, a[href$=".doc"]::before, a[href$=".docx"]::before,
@@ -57,10 +62,11 @@ a[href$=".doc"]::before, a[href$=".docx"]::before {
   content: url(../slike/ikonice/doc.png);
 }
 
-a:hover, .trenutna_strana a, 
+a:hover, .trenutna_strana, 
 h1, h2, h3 {
   color: #0066ff;
 }
+
 
 /*********** HELPERS *********/
 
@@ -224,7 +230,6 @@ header {
 .sredisnji-deo {
   padding-top: 40px;
   padding-bottom: 40px;
-  overflow: auto; /* prilagodjava okvir plovnom sadrzaju */
   border-radius: 5px 5px 0 0;
   box-shadow: 2px 2px 24px -3px rgba(0, 0, 0, 0.75);
 }
@@ -254,7 +259,7 @@ footer p {
 
 @media (min-width: 800px) {
   .glavnina {
-    margin: 0 8% 8% 8%;
+    margin: 0 10% 8% 10%;
   }
   header {
     padding: 0 10% 0 10%;
@@ -281,7 +286,13 @@ footer p {
   }
 
   .meni-pojedinacno {
+    border-bottom: none;
+  }
+
+  .trenutna_strana,
+  .meni-pojedinacno:hover {
     border-bottom: 1px solid;
+    margin-bottom: -1px;
   }
 
   .show-lg {

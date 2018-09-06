@@ -28,9 +28,9 @@ include_once "ukljuci/header.php";
         <p>Nije na odmet istaći da je posebna pogodnost i prednost autora subspecijalizacija iz pedijatrijske radiologije (ova specijalizacija se najvećim delom bavi otkrivanjem urođenih i stečenih anomalija dece) i magistarska i doktorska disertacija u oblasti urođenih razvojnih oštećenja organa jetre, pankreasa, mozga i kičmene moždine. Ove disertacije su proistekle u kliničkom radu preko 10 godina i zasnovane su na pregledu preko 5000 slučajeva. Usavršavanje na Columbia univerzitetu u Njujorku i na Harvardu u Bostonu su takođe neophodan deo, radi dobijanja samopuzdanja koje je neophodno u razumevanju i učenju novih svetskih dostignuća u ultrazvučnoj dijagnostici.</p>
       </div>
 
-      <div class="clear">
-        <p class="bitno">OVO OBJAŠNJENJE JE BILO POTREBNO DA BI SE SHVATILA POTREBA ZA KONTINUITETOM U OKVIRU RENDGEN I ULTRAZVUČNE DIJAGNOSTIKE, I DA SE ONA NE MOŽE ZASNIVATI SAMO NA TEHNOLOGIJI VEĆ I NA OBAVEZNOM ZNANJU I DUGOGODIŠNJEM LIČNOM ISKUSTVU I PERMANENTNOM PRAĆENJU I UČENJU DOSTIGNUĆA SVETSKE MEDICINE.</p>
-      </div>
+      <div class="clear"></div>
+
+      <p class="bitno">OVO OBJAŠNJENJE JE BILO POTREBNO DA BI SE SHVATILA POTREBA ZA KONTINUITETOM U OKVIRU RENDGEN I ULTRAZVUČNE DIJAGNOSTIKE, I DA SE ONA NE MOŽE ZASNIVATI SAMO NA TEHNOLOGIJI VEĆ I NA OBAVEZNOM ZNANJU I DUGOGODIŠNJEM LIČNOM ISKUSTVU I PERMANENTNOM PRAĆENJU I UČENJU DOSTIGNUĆA SVETSKE MEDICINE.</p>
     </div>
 
     <div class="radovi sredisnji-deo granicnik">
