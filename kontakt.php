@@ -6,7 +6,7 @@ include_once "ukljuci/header.php";
     <div class="sredisnji-deo granicnik">
       <h1>Kontakt</h1>
 
-      <img src="slike/male/ordinacija-ultramedika10.jpg" class="slika-desno">
+      <img src="slike/male/ordinacija-ultramedika10.jpg" class="slika-desno" alt="Ordinacija Ultramedika">
 
       <p><span><strong>VLASNIK ORDINACIJE:</strong></span><br>
       Doc. Dr sci med Tihomir M. Mihailović, specijalista radiologije</p>

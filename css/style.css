@@ -145,6 +145,12 @@ h1, h2, h3 {
   margin: 1em 0;
 }
 
+.galerija img {
+  padding: 20px;
+  border: 1px solid #000000;
+  margin: 1%;
+}
+
 #mapa-okvir {
   height: 600px;
   width: 100%;

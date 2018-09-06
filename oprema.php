@@ -8,7 +8,7 @@
 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/SLH1I4fW_kM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-      <img src="slike/aparat-epiq-7.png" alt="ultrazvucni aparat epiq 7" class="slika-desno">
+      <img src="slike/aparat-epiq-7.png" alt="ultrazvucni aparat epiq 7" title="Ultrazvučni aparat Epiq 7 poslednje generacije" class="slika-desno">
 
       <p class="bitno">EPIQ 7 JE ULTRAZVUK POSLEDNJE GENERACIJE</p>
       

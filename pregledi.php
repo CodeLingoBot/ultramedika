@@ -6,7 +6,7 @@
     <div class="sredisnji-deo granicnik">
       <h1>Ultrazvučni pregledi</h1>
 
-      <img src="slike/velike/ordinacija-ultramedika19.jpg" class="full">
+      <img src="slike/velike/ordinacija-ultramedika19.jpg" class="full" alt="ultrazvucni snimak bebe" title="Ultrazvučni snimak bebe">
       
       <p class="bitno">U ORDINACIJI ULTRAMEDIKA preglede radi isključivo Doc. Dr sci med Tihomir M. Mihailović sa iskustvom od 30 godina u ultrazvučnoj dijagnostici svih oblasti koje se primenjuju u svetskoj medicini.</p>
 

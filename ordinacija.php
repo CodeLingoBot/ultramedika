@@ -4,7 +4,7 @@
 
       <h1>Ordinacija</h1>
 
-      <img src="slike/velike/ordinacija-ultramedika1.jpg" class="full">
+      <img src="slike/velike/ordinacija-ultramedika1.jpg" class="full" alt="Ordinacija Ultramedika ulaz" title="Ulaz u zgradu ordinacije Ultramedika">
 
       <p><strong>ULTRAMEDIKA je specijalistička radiološka ordinacija.</strong></p>
 
@@ -19,8 +19,8 @@
       <p>Od samog početka nosilac posla je Doc. Dr. Sci med. Tihomir M. Mihailović, specijalista radiologije od  1986. godine. Ultrazvukom se bavi od 1986. i  završio je magisterijum i doktorat iz ultrazvučne dijagnostike  (1988, 1992.god). Svoju edukaciju iz ultrazvučne dijagnostike je dopunio sa usavršavanjem u Americi i to na Kolumbija i Harvard Univerzitetu još 1989. godine.</p>
 
       <div class="slika-desno">
-        <a href="slike/ordinacija1.jpg"><img src="slike/ordinacija1.jpg" class="slika-desno"></a>
-        <a href="slike/ordinacija2.jpg"><img src="slike/ordinacija2.jpg" class="slika-desno"></a>
+        <a href="slike/ordinacija1.jpg"><img src="slike/ordinacija1.jpg" class="slika-desno" alt="ordinacija Ultramedika" title="Unutrašnjost ordinacije Ultramedika"></a>
+        <a href="slike/ordinacija2.jpg"><img src="slike/ordinacija2.jpg" class="slika-desno" alt="ordinacija Ultramedika" title="Unutrašnjost ordinacije Ultramedika"></a>
       </div>
       
       <p class="postava">Nakon dugogodišnjeg kliničkog iskustva (preko 10 godina) Dr Tihomir M. Mihailović 1993. god. nastavlja samo sa radom u svojoj ordinaciji ULTRAMEDIKA. I nakon prekida rada u bolnici nastavlja da se bavi naučno-istraživačkim radom o čemu svedoče brojni stručni radovi iz oblasti ultrazvuka kao i edukacijom studenata i mladjih kolega u svojoj ordinaciji u sklopu Privatnog medicinskog fakulteta.</p>
@@ -36,7 +36,7 @@
             
       <p class="bitno">Ordinacija je za proteklih 20 godina promenila 4 ultrazvučna aparata.</p>
       
-      <img src="slike/dr-tihomir-mihailovic.jpg" class="slika-desno">
+      <img src="slike/dr-tihomir-mihailovic.jpg" class="slika-desno" alt="dr Tihomir Mihailović radiolog" title="Dr Tihomir Mihailović, radiolog sa višedecenijskim iskustvom.">
 
       <ol>
         <li>Prvi aparat je bio Simensov SL kupljen 1993.</li>
@@ -66,13 +66,13 @@
       
       <h2><a href="savetovaliste.php">Psihološko savetovalište za trudnice</a></h2>
       
-      <img src="slike/leonora.jpg" class="slika-desno">
+      <img src="slike/leonora.jpg" class="slika-desno" alt="Leonora Pavlica psihološko savetovalište Psiholjub" title="MSc Leonora Pavlica, klinički psiholog i psihoterapeut">
       
-      <p>Obzirom da specijalistička ordinacija Ultramedika posvećuje veliku pažnju radu sa trudnicama, u okviru svoje ponude ima i psihološko savetovalište za trudnice, koje vodi klinički psiholog i psihoterapeut Leonora T. Pavlica.</p>
+      <p>Obzirom da specijalistička ordinacija Ultramedika posvećuje veliku pažnju radu sa trudnicama, u okviru svoje ponude ima i psihološko savetovalište za trudnice, koje vodi klinički psiholog i psihoterapeut MSc Leonora T. Pavlica.</p>
 	  <p>Kontakt telefon: <a href="tel:+381693057770">069/305 77 70</a></p>
 	  <p><a href="tekstovi/Leonora-Biografija.doc">Biografija </a></p>
 	  <p><a href="tekstovi/Leonora-Profil.doc">Profil </a></p>
-	  <p>Savetovalište se prvenstveno bavi problemima postpartalne tuge, antepartalne i postpartalne depresije, psihoze i drugih poremećaja karakterističnih za trudnoću i period nakon porođaja. Više o psihološkom savetovalištu možete pročitati <a href="savetovaliste.php">ovde</a>.</p>
+	  <p>Savetovalište se prvenstveno bavi problemima postpartalne tuge, antepartalne i postpartalne depresije, psihoze i drugih poremećaja karakterističnih za trudnoću i period nakon porođaja. Više o psihološkom savetovalištu možete pročitati <a href="savetovaliste.php" title="Psihološko savetovalište za trudnice">ovde</a>.</p>
 
     </div>
             
