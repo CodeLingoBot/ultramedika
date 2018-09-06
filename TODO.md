@@ -1,2 +1,0 @@
-- telefon u zaglavlje https://www.belmedic.rs/
-- Kalendar pregleda u trudnoći iz pregleda smestiti negde
