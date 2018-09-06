@@ -4,15 +4,13 @@
 ?>
 
     <div class="sredisnji-deo granicnik">
-      <h1>Usluge</h1>
+      <h1>Ultrazvučni pregledi</h1>
 
-      <h2>Ultrazvučni pregledi</h1>
-            
       <img src="slike/velike/ordinacija-ultramedika19.jpg" class="full">
       
       <p class="bitno">U ORDINACIJI ULTRAMEDIKA preglede radi isključivo Doc. Dr sci med Tihomir M. Mihailović sa iskustvom od 30 godina u ultrazvučnoj dijagnostici svih oblasti koje se primenjuju u svetskoj medicini.</p>
 
-      <p class="postava">Posebna posvećenost Dr. Tihomira je ultrazvučna dijagnostika u onkologiji.</p>
+      <p>Posebna posvećenost Dr. Tihomira je ultrazvučna dijagnostika u onkologiji.</p>
       
       <p>Tu se na prvom mestu misli <span>dijagnostika tumora DOJKI, MATERICE, JAJNIKA, PROSTATE, organa trbušne duplje (jetre, pankreasa, bubrega slezine, želudca, debelog i tankog creva) itd.</span> Ovi pregledi su jedinstveni u SRBIJI tj. u ovoj ordinaciji, jer se za njihov kvalitet brine ultrazvučna tomografija, xMATRIX 4D, i SONOELASTOGRAFIJA.</p>
       
@@ -22,17 +20,17 @@
       
       <p class="bitno">Kvalitetan ultrazvučni pregled DOJKI, znatno ranije otkriva tumor u dojci  od digitalne mamografije i magnetne rezonance-MR.</p>
       
-      <p class="postava">Redovne ultrazvučne kontrole(na 6-12 meseci) isključuju potrebu pregleda mamografijom, jer ona zrači pacijenta i može  dovesti do pojave tumora.</p>
+      <p>Redovne ultrazvučne kontrole(na 6-12 meseci) isključuju potrebu pregleda mamografijom, jer ona zrači pacijenta i može  dovesti do pojave tumora.</p>
       
       <p>Ako magnetna rezonanca nije u stanju da postavi dijagnozu ne treba je ponavljati već uraditi kvalitetan ultrazvučni pregled, jer MR tj. ova metoda dovodi do povećanog broja lažno pozitivnog nalaza i nepotrebnih hirurških intervencija na osnovu dosadašnjeg iskustva.</p>
       
-      <p>Treba istaci da se Dr. Tihomir M. Mihailović posebno bavi preko <span>20 godina pregledima trudnoće.</span></p>
+      <p>Treba istaći da se Dr. Tihomir M. Mihailović posebno bavi preko <span>20 godina pregledima trudnoće.</span></p>
       
     </div>
         
     <div class="sredisnji-deo granicnik">
     
-      <h2>Kalendar pregleda u trudnoći:</h2>
+      <h2>Kalendar pregleda u trudnoći</h2>
       
       <p class="bitno">Za kvalitetan pregled u trudnoći potrebna su dva osnovna uslova: 
         <ol>
@@ -59,18 +57,7 @@
       
       <p class="bitno">Od 28 nedelje trudnoće se prati porast ploda i funkcija organa ploda(štitne žlezde,srca ploda bubrega, gutanja bebe itd), spuštanje testisa, zrelost pluća itd.</p>
       
-      <h2>Psihološko savetovalište:</h2>
-      
-      <img src="slike/leonora.jpg" class="slika-desno">
-      
-      <div class="leonora">
-        <p>LEONORA T. PAVLICA, </p>
-        <p>KLINIČKI PSIHOLOG I PSIHOTERAPEUT,</p>
-        <p>Kontakt telefon: 069 3057770</p>
-        <p><a href="tekstovi/Leonora-Biografija.doc">✓ Biografija </a><a href="tekstovi/Leonora-Profil.doc">✓ Profil </a><a href="savetovaliste.php">✓ Psihološko savetovalište za trudnice</a></p>
-      </div>
-      
-      <h2>Ostali pregledi:</h2>
+      <h2>Ostali pregledi</h2>
 
       <p>U Ordinaciji ULTRAMEDIKA možete uraditi pregled  krvnih sudova tj ARTERIJA  i VENA. Tu spadaju pregledi krvnih sudova mozga, krvnih sudova vrata, trbušne duplje i krvnih sudova ruku i nogu itd.</p>
       

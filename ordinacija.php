@@ -13,12 +13,12 @@
         <li>Na stalnoj kupovini novih i najskupljih ultrazvučnih aparata renomiranih proizvodjača.</li>
         <li>USAVRŠAVANJE PREKO MEDICINSKIH ČASOPISA KOJE ORDINACIJA KUPUJE (Journal of ULTRASOUND in Medicine,  ULTRASOUND in Obstretics & Gynecology).</li>
       </ol>
-      
-      <p class="bitno">Ordinacija je počela sa radom 3.03.1993 godine.</p>
+           
+      <p class="bitno">POČETAK RADA SPECIJALISTIČKE RADIOLOŠKE ORDINACIJE MART 1993.</p>
       
       <p>Od samog početka nosilac posla je Doc. Dr. Sci med. Tihomir M. Mihailović, specijalista radiologije od  1986. godine. Ultrazvukom se bavi od 1986. i  završio je magisterijum i doktorat iz ultrazvučne dijagnostike  (1988, 1992.god). Svoju edukaciju iz ultrazvučne dijagnostike je dopunio sa usavršavanjem u Americi i to na Kolumbija i Harvard Univerzitetu još 1989. godine.</p>
 
-      <div class="slikodrzac">
+      <div class="slika-desno">
         <a href="slike/ordinacija1.jpg"><img src="slike/ordinacija1.jpg" class="slika-desno"></a>
         <a href="slike/ordinacija2.jpg"><img src="slike/ordinacija2.jpg" class="slika-desno"></a>
       </div>
@@ -64,6 +64,16 @@
       
       <p class="postava">Treba istaći da se jedino u ovoj ordinaciji  rade ispitivanja prohodnosti jajovoda-Hy-Co-Sy, ubrizgavanjem negativnog kontrasta pod kontrlom ultrazvukom. (Klasičan HSG je izbačen iz svetske medicine i nekoristi se zbog zračenja jajnih ćelija i velikog broja lažno pozitivnog nalaza.</p>
       
+      <h2><a href="savetovaliste.php">Psihološko savetovalište za trudnice</a></h2>
+      
+      <img src="slike/leonora.jpg" class="slika-desno">
+      
+      <p>Obzirom da specijalistička ordinacija Ultramedika posvećuje veliku pažnju radu sa trudnicama, u okviru svoje ponude ima i psihološko savetovalište za trudnice, koje vodi klinički psiholog i psihoterapeut Leonora T. Pavlica.</p>
+	  <p>Kontakt telefon: <a href="tel:+381693057770">069/305 77 70</a></p>
+	  <p><a href="tekstovi/Leonora-Biografija.doc">Biografija </a></p>
+	  <p><a href="tekstovi/Leonora-Profil.doc">Profil </a></p>
+	  <p>Savetovalište se prvenstveno bavi problemima postpartalne tuge, antepartalne i postpartalne depresije, psihoze i drugih poremećaja karakterističnih za trudnoću i period nakon porođaja. Više o psihološkom savetovalištu možete pročitati <a href="savetovaliste.php">ovde</a>.</p>
+
     </div>
             
 <?php include_once("ukljuci/footer.php"); ?>

@@ -40,7 +40,7 @@
 			</p>
 			
 		<p><strong>Leonora Pavlica, </strong><strong>klinički psiholog</strong> i psihoterapeut</p>
-		<p>Kontakt telefon: 069 305 777 0</p>
+		<p>Kontakt telefon: <a href="tel:+381693057770">069/305 77 70</a></p>
 	  </div>
 						
 <?php include_once("ukljuci/footer.php"); ?>

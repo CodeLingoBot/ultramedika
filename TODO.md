@@ -1,0 +1,6 @@
+- popraviti logo, vidi stari sajt
+- Kalendar pregleda u trudnoći iz pregleda smestiti negde
+- srediti SEO, nazive slika, alt, title i ostalo
+- telefon u zaglavlje https://www.belmedic.rs/
+- povezati postojeće stranice sa starog sajta http://www.ultramedika.rs/stari-sajt/deca.htm
+- srediti index na starom sajtu da vodi na novi
