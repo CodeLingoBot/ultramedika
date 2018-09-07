@@ -4,9 +4,7 @@
 
   <h1><a href="ordinacija.php" title="Saznaj više o ordinaciji">Dobrodošli u Ultramediku</a>!</h1>
 
-  <!-- <img src="http://www.1025therenegade.com/wp-content/uploads/2016/12/5055-584647ee765de.jpg" alt="trudnica">-->
-
-  <p>Ultramedika je specijalistička radiološka ordinacija koju je osnovao dr Tihomir Mihailović 1993. godine. Dr Mihailović je posebno posvećen pregledima trudnoće, a posebnu pažnju usmerava na hromozomske anomalije, urođene anomalije srca i druge eventualno prisutne anatomske anomalije.</p>
+  <p>Ultramedika je specijalistička radiološka ordinacija koju je osnovao dr Tihomir Mihailović 1993. godine. Dr Mihailović je posebno posvećen pregledima trudnoće, a posebnu pažnju usmerava na hromozomske anomalije, urođene anomalije srca i druge eventualno prisutne anatomske anomalije. <a href="ordinacija.php" title="Saznaj više o ordinaciji">Saznajte više...</a></p>
 
   <div class="levo">
   <h2><a href="radovi.php" title="Pregledaj stručne radove">Stručnost</a></h2>
