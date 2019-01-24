@@ -35,6 +35,16 @@ include_once "ukljuci/header.php";
 
     <div class="radovi sredisnji-deo granicnik">
 
+      <h2>2018. godina.</h2>
+
+      <a href="radovi/SKMBT_C203.19011914090.pdf">Simpozijum "Savremeni trendovi u ishemijskoj bolesti srca - od angine pektoris do stemi infarkta miokarda", Kongres privatne lekarske prakse, Beograd, 19. april 2018.</a>
+
+      <a href="radovi/SKMBT_C203.19011914091.pdf">Simpozijum "Mentalno zdravlje i problemi mladih", Kongres privatne lekarske prakse, Beograd, 20. april 2018.</a>
+
+      <a href="radovi/SKMBT_C203.19011914100.pdf">Simpozijum "Analize nukleotidne sekvence genoma virusa u medicinskoj dijagnostici", Institut za transfuziologiju i hemobiologiju VMA, Beograd, 11. oktobar 2018.</a>
+
+      <a href="radovi/SKMBT_C203.19011914101.pdf">6. Kongres transfuziologa Srbije, Beograd 7 - 10. novembar 2018.</a>
+
       <h2>2017. godina.</h2>
 
       <a href="radovi/Mihilovic WCPM.pdf">T. Mihailovic (2017.):&quot;13 th World Congres Of Perinatal medicine&quot;, Beograd  26.-29.oktobar 2017.</a>
