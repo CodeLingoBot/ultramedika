@@ -7,6 +7,11 @@ include_once "ukljuci/header.php";
   <h1>Galerija</h1>
 
   <div>
+    <a href="slike/velike/konferencija02.jpg" target="_self"><img src="slike/male/konferencija02.jpg" alt="konferencija" /></a>
+    <a href="slike/velike/konferencija05.jpg" target="_self"><img src="slike/male/konferencija05.jpg" alt="konferencija" /></a>
+    <a href="slike/velike/konferencija01.jpg" target="_self"><img src="slike/male/konferencija01.jpg" alt="konferencija" /></a>
+    <a href="slike/velike/konferencija03.jpg" target="_self"><img src="slike/male/konferencija03.jpg" alt="konferencija" /></a>
+  
     <a href="slike/velike/ordinacija-ultramedika22.jpg" target="_self"><img src="slike/male/ordinacija-ultramedika22.jpg" alt="ultrazvucni snimak bebe" /></a>
     <a href="slike/velike/ordinacija-ultramedika21.jpg" target="_self"><img src="slike/male/ordinacija-ultramedika21.jpg" alt="ultrazvucni snimak bebe" /></a>
     <a href="slike/velike/ordinacija-ultramedika23.jpg" target="_self"><img src="slike/male/ordinacija-ultramedika23.jpg"  alt="ultrazvucni snimak bebe"/></a>
